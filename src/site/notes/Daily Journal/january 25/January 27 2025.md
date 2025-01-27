@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/january-27/","created":"2025-01-27T16:08:14.958+01:00","updated":"2025-01-27T18:07:20.439+01:00"}
+{"dg-publish":true,"permalink":"/daily-journal/january-25/january-27-2025/","created":"2025-01-27T15:51:00.967+01:00","updated":"2025-01-27T18:07:07.678+01:00"}
 ---
-
-
 
 Today is monday and you both, vali and eli, were the only ones who got to school. Your 2 brothers, joe and wölfi stayed at home. Next saturday we want to leave and go on vacation to denmark. Joe and wölfi are coughing really hard, so they stay at home.
 
