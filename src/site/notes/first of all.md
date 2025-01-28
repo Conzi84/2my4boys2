@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/first-of-all/","tags":["gardenEntry"],"created":"2025-01-27T15:44:39.654+01:00","updated":"2025-01-27T16:28:10.876+01:00"}
+{"dg-publish":true,"permalink":"/first-of-all/","created":"2025-01-27T15:44:39.654+01:00","updated":"2025-01-28T15:44:21.138+01:00"}
 ---
 
 
