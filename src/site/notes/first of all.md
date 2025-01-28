@@ -4,8 +4,5 @@
 
 
 # 2 my 4 boys.
-Thanks for visiting. 
-
-This is my digital garden for my boys. Hope they will learn something for life.
-
-This is just a test message.
+This is just a digital garden where I save my learnings and life lessons for my children. Feel free to read and share, but think about as my mental property. 
+I hope you having a good time.
