@@ -8,4 +8,5 @@ Feel free. My loved ones.
 
 
 
-[[home\|home]]]()]()
+[[home\|home]]
+[[Daily Journal/january 25/January 30 2025\|January 30 2025]]
