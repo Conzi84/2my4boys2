@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily-journal/february-2025/february-1-2025/","created":"2025-02-02T14:19:35.716+01:00"}
+{"dg-publish":true,"permalink":"/daily-journal/february-2025/february-1-2025/"}
 ---
 
 #personal 
