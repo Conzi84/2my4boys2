@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/life/in-30-years-from-now/"}
+{"dg-publish":true,"permalink":"/life/in-30-years-from-now/","noteIcon":"","created":"2025-02-02T17:16:33.223+01:00"}
 ---
 
 #### 
@@ -15,3 +15,5 @@ Think about that today and begin living your life with more gratitude.
 More blessings will come your way.
 
 Have faith.
+
+[[Daily Journal/2025/february 2025/2025-02-06\|2025-02-06]]
