@@ -16,4 +16,4 @@ More blessings will come your way.
 
 Have faith.
 
-[[Daily Journal/2025/february 2025/2025-02-06\|2025-02-06]]
+[[Journal/2025/february 2025/2025-02-06\|2025-02-06]]

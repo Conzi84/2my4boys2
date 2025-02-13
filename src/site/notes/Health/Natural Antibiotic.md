@@ -32,4 +32,4 @@ INGREDIENTS
 Raw, unfiltered apple cider vinegar
 #health 
 
-[[Daily Journal/2025/february 2025/2025-02-08\|2025-02-08]]
+[[Journal/2025/february 2025/2025-02-08\|2025-02-08]]
