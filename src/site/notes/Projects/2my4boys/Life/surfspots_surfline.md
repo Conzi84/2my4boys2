@@ -47,4 +47,4 @@
 - **Beschreibung**: Beachbreak, starker Wind notwendig
 - [🌐 Surfline: Jetzt Bedingungen prüfen](https://www.surfline.com/surf-report/wustrow/584204204e65fad6a77095de)
 
-[[Projects/2my4boys/home\|home]]
+[[Projects/2my4boys/home_new\|home_new]]
