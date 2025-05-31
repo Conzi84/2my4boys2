@@ -33,3 +33,4 @@ Raw, unfiltered apple cider vinegar
 #health 
 
 [[Projects/2my4boys/Journal/2025/february 2025/2025-02-08\|2025-02-08]]
+[[Projects/2my4boys/home_new\|home_new]]

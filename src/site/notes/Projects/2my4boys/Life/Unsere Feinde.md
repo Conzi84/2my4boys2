@@ -7,3 +7,4 @@
 Dale Carnegie
 
 #quote 
+[[Projects/2my4boys/home_new\|home_new]]

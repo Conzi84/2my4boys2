@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/projects/2my4boys/life/surfspots-surfline/"}
 ---
 
-
+[[Projects/2my4boys/home_new\|home_new]]
 # 🌊 Surfspots Ostsee mit Surfline-Daten
 
 ## Kühlungsborn

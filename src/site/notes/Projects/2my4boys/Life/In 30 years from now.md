@@ -15,5 +15,6 @@ Think about that today and begin living your life with more gratitude.
 More blessings will come your way.
 
 Have faith.
+[[Projects/2my4boys/home_new\|home_new]]
 
 [[Projects/2my4boys/Journal/2025/february 2025/2025-02-06\|2025-02-06]]
