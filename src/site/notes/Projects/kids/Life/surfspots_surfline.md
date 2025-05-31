@@ -46,3 +46,5 @@
 - **Region**: MV
 - **Beschreibung**: Beachbreak, starker Wind notwendig
 - [🌐 Surfline: Jetzt Bedingungen prüfen](https://www.surfline.com/surf-report/wustrow/584204204e65fad6a77095de)
+
+[[Projects/kids/home\|home]]
